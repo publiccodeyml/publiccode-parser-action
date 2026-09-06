@@ -13,8 +13,8 @@ name: Medusa
 nickname: Meds
 
 applicationSuite: MegaProductivitySuite
-url: "https://github.com/italia/developers.italia.it.git"        # URL of this repository
-landingURL: "https://developers.italia.it"
+url: "https://github.com/example/medusa.git"        # URL of this repository
+landingURL: "https://example.com/medusa"
 ...
 ```
 

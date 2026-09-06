@@ -1,8 +1,5 @@
 # publiccode.yml parser action for GitHub
 
-[![Join the #publiccode channel](https://img.shields.io/badge/Slack%20channel-%23publiccode-blue.svg?logo=slack)](https://developersitalia.slack.com/messages/CAM3F785T)
-[![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
-
 A GitHub action based upon the [Go parser and validator](https://github.com/italia/publiccode-parser-go)
 for [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) files.
 
@@ -82,15 +79,7 @@ If you want to know more about how to add new fields, check out [CONTRIBUTING.md
 In order to support other country-specific extensions in addition to Italy some
 refactoring might be needed.
 
-## Maintainers
-
-This software is maintained by the
-[Developers Italia](https://developers.italia.it/) team.
-
 ## License
-
-© 2020-present Dipartimento per la Trasformazione Digitale - Presidenza del Consiglio dei
-Ministri
 
 Licensed under the EUPL v1.2.
 The version control system provides attribution for specific lines of code.
