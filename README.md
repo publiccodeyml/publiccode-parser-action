@@ -1,6 +1,6 @@
 # publiccode.yml parser action for GitHub
 
-A GitHub action based upon the [Go parser and validator](https://github.com/italia/publiccode-parser-go)
+A GitHub action based upon the [Go parser and validator](https://github.com/publiccodeyml/libpubliccode)
 for [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) files.
 
 `publiccode.yml` is an international standard for describing public software, which
